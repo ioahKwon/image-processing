@@ -22,6 +22,11 @@ template file. Submit code and figures
 
 # Homework 2 :
 
+(MATLAB) Download template MATLAB file (hw2_template.m) and sample image
+(zelda.pgm). Perform image enhancements (intensity transform, histogram based
+processing, and spatial filtering). You need to modify the template file. Submit code
+and figures.
+
 ## <3X3 Average Filter>
 ![3x3 Average Filter](https://user-images.githubusercontent.com/70814964/93469882-15edba80-f92c-11ea-9d05-87ba9d0c5e16.PNG)
 
