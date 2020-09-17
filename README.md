@@ -1,4 +1,4 @@
-# image-processing
+# Image Processing examples
 This is simple example of image processing technique using MATLAB.
 
 # Homework 1 : 
